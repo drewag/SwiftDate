@@ -10,6 +10,7 @@
 //  Copyright © 2019 Daniele Margutti. Licensed under MIT License.
 //
 
+/*
 import Foundation
 
 public extension TimeInterval {
@@ -166,3 +167,4 @@ public extension TimeInterval {
 	}
 
 }
+*/
